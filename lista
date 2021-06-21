@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="312.png",Paramount Channel
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
 
@@ -25,6 +26,45 @@ http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="308.png",KissKiss Napoli TV
 http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="189.png",Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="146.png",Radio Company TV
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio 1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063 
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841 
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio 1 Sport
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842124
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio 2 Indie
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842169
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio 3 Classica
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio GR Parlamento
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173879
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio Kids
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174086
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio Live
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174083
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio Techetè
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174078
+
+#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio Tutta Italiana
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173799
+
 #EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="062.png",TeleOLTRE
 rtmp://1se2.troydesign.eu:80/np_teleoltre/channel1_np_teleoltre
 
@@ -39,3 +79,63 @@ http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="103.png",Castrovillari TV
 rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
+
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="135.png",Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="136.png",Teleromagna News
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="138.png",Teleromagna Mia
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="139.png",Teleromagna Lifestyle
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="149.png",Telepordenone
+rtmp://213.187.12.18/telepn/telepn
+
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="182.png",Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="182.png",TSN Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="185.png",Video Brescia
+http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="191.png",Telemonteve
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="192.png",Telemonteve 3
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="304.png",TVRS
+http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="214.png",TeleBari HD
+rtmp://fl1.mediastreaming.it:1935/telebari/livestream
+
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="217.png",Studio 100
+rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
+
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="222.png",Canale 7
+rtmp://wms.shared.streamshow.it:80/canale7/canale7
+
+#EXTINF:-1 tvg-id="" group-title="UMBRIA-MARCHE" tvg-logo="276.png",Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u83
+
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="290.png",TeleChiara
+rtmp://fms.tvavicenza.it:1935/telechiara/diretta
+
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="293.png",Cafe TV 24
+rtmp://srv3.meway.tv:1957/cafe/live
+
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="294.png",Tva Vicenza
+rtmp://fms.tvavicenza.it:1935/live/diretta_1
+
+#EXTINF:-1 tvg-id="" group-title="TRENTINO ALTO ADIGE" tvg-logo="302.png",Video 33
+http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
+
+
+#EXT-X-ENDLIST
