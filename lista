@@ -5,6 +5,9 @@ http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="022.png",TV2000
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="051.png",Radionorba TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="085.png",Radio Deejay
 http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
 
@@ -16,6 +19,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="041.png",Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="041.png",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="309.png",KissKiss TV
 http://wma05.fluidstream.net/KKMulti/livestream_600p/playlist.m3u8
@@ -31,6 +37,12 @@ http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="146.png",Radio Company TV
 rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+
+#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="146.png",Radio 51
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="146.png",Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="294.png",Rai Radio 1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834
@@ -71,14 +83,26 @@ rtmp://1se2.troydesign.eu:80/np_teleoltre/channel1_np_teleoltre
 #EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="073.png",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ABRUZZO" tvg-logo="100.png",TeleAbruzzo
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BASILICATA" tvg-logo="087.png",Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BASILICATA" tvg-logo="087.png",Lucania TV
 rtmp://wms.shared.streamshow.it:80/lucaniatv/lucaniatv
+
+#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="100.png",RTC Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="100.png",Esperia TV
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="103.png",Castrovillari TV
 rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
+
+#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="100.png",Telemia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="135.png",Teleromagna
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
@@ -113,6 +137,12 @@ http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="304.png",TVRS
 http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="MOLISE" tvg-logo="304.png",TeleMolise
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="217.png",Retebiella TV
+rtmp://sb.top-ix.org:1935/retebiella/streaming
+
 #EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="214.png",TeleBari HD
 rtmp://fl1.mediastreaming.it:1935/telebari/livestream
 
@@ -121,6 +151,12 @@ rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
 
 #EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="222.png",Canale 7
 rtmp://wms.shared.streamshow.it:80/canale7/canale7
+
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="222.png",Tele Foggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="290.png",Onda TV
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="UMBRIA-MARCHE" tvg-logo="276.png",Vera TV
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u83
@@ -137,5 +173,18 @@ rtmp://fms.tvavicenza.it:1935/live/diretta_1
 #EXTINF:-1 tvg-id="" group-title="TRENTINO ALTO ADIGE" tvg-logo="302.png",Video 33
 http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ESTERO" tvg-logo="302.png",CBS News 1
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ESTERO" tvg-logo="302.png",CBS News 2
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESTERO" tvg-logo="302.png",CBC News
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESTERO" tvg-logo="302.png",Wairarapa TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ESTERO" tvg-logo="302.png",Mello TV
+https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXT-X-ENDLIST
