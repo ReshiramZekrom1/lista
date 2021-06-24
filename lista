@@ -8,6 +8,12 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 
+#EXTINF:-1 tvg-id="" group-title="RAI",Rai 3 SD
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI",Rai 3 SD (Alt.)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="MEDIASET",Rete 4
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 
@@ -40,6 +46,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai News 24
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+
+#EXTINF:-1 tvg-id="" group-title="RAI",Rai News 24 (Alt.)
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai Sport+ HD 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
@@ -280,6 +289,9 @@ rtmp://wms.shared.streamshow.it:80/canale7/canale7
 
 #EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="222.png",Tele Foggia
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="",Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="290.png",Onda TV
 https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
