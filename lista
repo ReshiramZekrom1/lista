@@ -1,11 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai 3 SD
@@ -17,58 +20,82 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MEDIASET",Rete 4
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="MEDIASET",Rete 4 (Alt.)
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
+
 #EXTINF:-1 tvg-id="" group-title="MEDIASET",Canale 5
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET",Canale 5 (Alt.)
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="MEDIASET",Italia 1
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="MEDIASET",Italia 1 (Alt.)
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
+
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai Storia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 
-#EXTINF:-1 tvg-id="" group-title="RAI",Rai Yoyo
+#EXTINF:-1 tvg-id="" group-title="CARTONI",Rai Yoyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 
-#EXTINF:-1 tvg-id="" group-title="RAI",Rai Gulp
+#EXTINF:-1 tvg-id="" group-title="CARTONI",Rai Gulp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai News 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai News 24 (Alt.)
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai Sport+ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai Sport 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai Scuola
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 
 #EXTINF:-1 tvg-id="" group-title="RAI",Rai Radio 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
 
 #EXTINF:-1 tvg-id="" group-title="RAI",RaiPlay 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4465258
 
 #EXTINF:-1 tvg-id="" group-title="RAI",RaiPlay 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=145960
 
 #EXTINF:-1 tvg-id="" group-title="RAI",RaiPlay 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=9681540
 
 #EXTINF:-1 tvg-id="" group-title="MEDIASET",Mediaset Extra
