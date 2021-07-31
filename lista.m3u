@@ -528,5 +528,7 @@ https://cldwz.tv2000.it/HLS/RadioInBlu/webradiolive/chunklist.m3u8
 https://dreamsiteradiocp5.com/proxy/rmitalia
 #EXTINF:-1 tvg-id="" group-title="RADIO",[DAB] Radio Vaticana (Ita)
 https://rvl.azureedge.net/channel5.mp3
+#EXTINF:-1 tvg-id="" group-title="stream",fma1
+https://www8.sbcdnvideo.com/hls/tysxf6qcjo66j6cdacsr7qcboepo723pejdcceais,ltewcw3jurg3bo4ar7a,ryeucw3jurnkn2xbaga,.urlset/master.m3u8?xxx=123
 
 #EXT-X-ENDLIST
